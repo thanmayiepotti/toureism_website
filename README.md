@@ -12,7 +12,5 @@ a website on tours and travel using basic html and css
 https://github.com/thanmayiepotti/tourism_website/assets/142530111/cd98719e-0fbe-4695-a55d-8dabd0791daa
 
 
-https://github.com/thanmayiepotti/tourism_website/assets/142530111/b6b2754e-caf9-4326-9e4b-70d5f939be22
-
-ssets/142530111/a3f9094b-40ec-48ce-8b01-ad5518ae6178)
+https://github.com/thanmayiepotti/tourism_website/assets/142530111/b6b2754e-caf9-4326-9e4b-70d5f939be22ssets/142530111/a3f9094b-40ec-48ce-8b01-ad5518ae6178)
 
